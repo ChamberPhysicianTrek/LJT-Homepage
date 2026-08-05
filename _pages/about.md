@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Junteng Liu, a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), supervised by [Professor Junxian He](https://jxhe.github.io/). My research focuses on natural language processing and machine learning, with specific interests in LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLMs), and LLM Truthfulness and Interpretability.
+I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, supervised by Professor Junxian He. My research focuses on natural language processing and machine learning, with specific interests in LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLMs), and LLM Truthfulness and Interpretability.
 
 Academic Background
 ======
@@ -26,15 +26,15 @@ Publications
 Preprints
 ------
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025)  
-   &lt;u&gt;Junteng Liu&lt;/u&gt;, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *arXiv*, 2025. [[Code](https://github.com/Vicent0205/SynLogic)]
+   &lt;u&gt;Junteng Liu&lt;/u&gt;, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *arXiv*, 2025.
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025)  
-   &lt;u&gt;Junteng Liu&lt;/u&gt;, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *arXiv*, 2025. [[Code](https://github.com/Vicent0205/Vision4Chart)]
+   &lt;u&gt;Junteng Liu&lt;/u&gt;, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *arXiv*, 2025.
 
 Conference Papers
 ------
 3. **On the Universal Truthfulness Hyperplane Inside LLMs**  
-   &lt;u&gt;Junteng Liu&lt;/u&gt;, Shiqi Chen, Yu Cheng, Junxian He. *EMNLP 2024*. [[Code](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)]
+   &lt;u&gt;Junteng Liu&lt;/u&gt;, Shiqi Chen, Yu Cheng, Junxian He. *EMNLP 2024*.
 
 4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**  
    Shiqi Chen, Miao Xiong, &lt;u&gt;Junteng Liu&lt;/u&gt;, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. *ICML 2024*.
@@ -53,9 +53,6 @@ Skills
 ======
 - Natural Language Processing
 - Machine Learning
-- Large Language Models
-- Vision-Language Models
-- Reinforcement Learning
 
 Contact
 ======
